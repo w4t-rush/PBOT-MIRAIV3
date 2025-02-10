@@ -33,12 +33,12 @@ Tải về và cài đặt:
 
 #### 2️⃣ Clone source bot
 ```sh
-git clone https://github.com/DongDev-VN/Mirai-Bot-V3 Mirai-Bot-V3
+git clone https://github.com/Kenne400k/PBOT-MIRAIV3.git
 ```
 
 #### 3️⃣ Cài đặt thư viện cần thiết
 ```sh
-cd Mirai-Bot-V3
+cd PBOT-MIRAIV3
 npm install
 ```
 
