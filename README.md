@@ -1,4 +1,4 @@
-# Mirai Bot Unofficial🤖<sub><sub>v3.0.0🚀</sub></sub>
+# Mirai Bot Unofficial🤖<sub><sub>v3.1.0🚀</sub></sub>
 <p align="center">
     <a href="https://nodejs.org/dist/v20.17.0"><img src="https://img.shields.io/badge/Nodejs%20Support-20.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v20.x"></a>
     <img alt="size" src="https://img.shields.io/github/repo-size/Kenne400k/PBOT-MIRAIV3.svg?style=flat-square&label=size">
@@ -7,8 +7,6 @@
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kenne400k.PBOT-MIRAIV3">
     <img alt="size" src="https://img.shields.io/badge/license-GPL--3.0-green?style=flat-square&color=brightgreen">
 </p>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DongDev-VN.Mirai-Bot-V3">
-<img alt="size" src="https://img.shields.io/badge/license-GPL--3.0-green?style=flat-square&color=brightgreen">
 <a href="https://github.com/DongDev-VN/Mirai-Bot-V3"><img src="https://i.imgur.com/sxW5AWa.png" alt="Logo"></a>
 <p align="center">
     A Simple MiraiBot for starting a Messenger Chatbot.
@@ -17,7 +15,7 @@
     
 
 ## 📝 **Giới thiệu**
-**Mirai Bot V3 Unofficial** là một dự án được DongDev cập nhật và tiếp tục phát triển từ dự án Mirai-V2 của Catalizcs và SpermLord.
+**Mirai Bot V3 Unofficial** Dự án này là phiên bản cải tiến và phát triển từ Mirai-V2 của Catalizcs và SpermLord, được DongDev cập nhật và nâng cấp với nhiều cải tiến mới. Sau đó, Nguyễn Trương Thiện Phát (Pcoder) tiếp tục cập nhật và cải tiến thêm.
 
 ## 📜 **Cài đặt**
 Sau đây là các bước cơ bản để có thể cài đặt và vận hành bot.
