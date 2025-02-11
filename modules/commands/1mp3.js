@@ -6,7 +6,7 @@ module.exports.config = {
     name: "mp3",
     version: "1.0.0",
     hasPermission: 0,
-    credits: "vh",
+    credits: "pcoder",
     description: "Tìm kiếm và tải nhạc từ ZingMP3",
     commandCategory: "Tiện ích",
     usages: "[Tên bài hát]",
