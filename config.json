@@ -20,21 +20,21 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "FACEBOOK_ADMIN": "",
-    "BOTNAME": "P-MIRAIV3",
+    "BOTNAME": "Trật Tự Buồng",
     "PREFIX": "/",
-    "BOXADMIN": "9480819391950156",
+    "BOXADMIN": "",
     "ADMINBOT": [
-        "100047128875560"
+        "7950144"
     ],
     "NDH": [
-        "100047128875560",
+        "7950144",
         "",
         ""
     ],
     "version": "3.0.0",
     "DESIGN": {
         "Theme": "rainbow",
-        "Admin": "Pcoder",
+        "Admin": "DTan",
         "Setup": {
             "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
         }
